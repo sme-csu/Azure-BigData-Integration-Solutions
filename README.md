@@ -16,7 +16,7 @@
 
 ## 0.2 环境准备与基础信息
 
-- **世纪互联网址：**https://portal.azure.cn/#home
+- **世纪互联网址:** https://portal.azure.cn/#home
 - **账号：**
 - **密码：**
 - **CDH中HBase地址为：**
